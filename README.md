@@ -1,4 +1,5 @@
-women wear website can be a great way to find the latest trends and styles at affordable prices. 
+women wear website can be a great way to find the latest trends and styles at affordable prices.<br>
+For live preview : <a href=" https://zaineli.github.io/RevivStyle/" alt="RevivStyle"/> <br>
 Here's glimpse of website:
 ![Screenshot 2023-09-26 185941](https://github.com/zaineli/RevivStyle/assets/113494181/4964a626-7f0e-42f9-b41b-3cc043e2fcf0)
 ![Screenshot 2023-09-26 190013](https://github.com/zaineli/RevivStyle/assets/113494181/a971a1d0-096f-41b9-a189-26ff9aaeaeba)
